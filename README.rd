@@ -15,6 +15,7 @@ The Westeros Archive DBMS is a simple and efficient Database Management System d
 ## Installation
 Clone this repository and navigate to the directory where the `archive.py` script is located.
 
-``sh
+```
 git clone https://github.com/yourusername/westeros-archive-dbms.git
 cd westeros-archive-dbms
+```
